@@ -4,4 +4,4 @@ Basic React.js app implementing video web streaming with CRUD operations for aut
 ## Streams App High Level Architecture
 ![overall Streams web app architecture](./streams%20app%20architecture.png)
 
-Majority of the code is for creating Client web app using React.js with redux
+Majority of the code is for creating the Client web app using React.js with redux.
