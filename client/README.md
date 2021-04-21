@@ -1,3 +1,41 @@
+# Streamer App
+
+## Project Description
+
+This project comprises a video streaming web app that implements standard REST-based CRUD functionality for users to create, view, edit, and delete streams.  The app also includes support for Google OAuth such that only authenticated users can create or make updates to their streams. From a design standpoint, we leverage [Semantic UI's](https://semantic-ui.com/) free stylesheet for styling our app (stylesheet href link included in index.html) - this saves time and ensures the project's primary focus is practicing React JS concepts.
+
+This app is one of the practice projects for Stephen Grider's Udemy course, [Modern React with Redux](https://www.udemy.com/course/react-redux/).  The project helps practice using core React JS concepts including the following: (with emphasis on sections 19-26)
+
+1) Building Content with JSX
+2) Communicating with Props
+3) Structuring Apps with Class-Based Components
+4) State in React Component
+5) Understanding Lifecycle Methods
+6) Handling User Input with Forms and Events
+7) Making API Requests with React
+8) Building Lists of Records
+9) Using Ref's for DOM Access
+10) Using Ref's for DOM Access
+11) Testing React Mastery (thus far)
+12) Understanding Hooks in React
+13) Navigation From Scratch
+14) Hooks in Practice
+15) Deploying a React App
+16) Redux
+17) Integrating React with Redux
+18) Async Actions with Redux Thunk
+19) Redux Store Design
+20) Navigation with React Router
+21) Handling Authentication with React
+22) Redux Dev Tools
+23) Handling Forms with Redux Form
+24) REST-Based React Apps
+25) Using React Portals
+26) Implementing Streaming Video
+
+## Result - Demo
+This app is also publicly hosted
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
