@@ -33,7 +33,7 @@ This app is one of the practice projects for Stephen Grider's Udemy course, [Mod
 25) Implementing Streaming Video
 
 ## Result - Demo
-!(Streamer App Demo)[../stream_app_demo.gif]
+!(Streamer App Demo)[stream_app_demo.gif]
 
 # Getting Started with Create React App
 
