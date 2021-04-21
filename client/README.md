@@ -15,23 +15,22 @@ This app is one of the practice projects for Stephen Grider's Udemy course, [Mod
 7) Making API Requests with React
 8) Building Lists of Records
 9) Using Ref's for DOM Access
-10) Using Ref's for DOM Access
-11) Testing React Mastery (thus far)
-12) Understanding Hooks in React
-13) Navigation From Scratch
-14) Hooks in Practice
-15) Deploying a React App
-16) Redux
-17) Integrating React with Redux
-18) Async Actions with Redux Thunk
-19) Redux Store Design
-20) Navigation with React Router
-21) Handling Authentication with React
-22) Redux Dev Tools
-23) Handling Forms with Redux Form
-24) REST-Based React Apps
-25) Using React Portals
-26) Implementing Streaming Video
+10) Testing React Mastery (thus far)
+11) Understanding Hooks in React
+12) Navigation From Scratch
+13) Hooks in Practice
+14) Deploying a React App
+15) Redux
+16) Integrating React with Redux
+17) Async Actions with Redux Thunk
+18) Redux Store Design
+19) Navigation with React Router
+20) Handling Authentication with React
+21) Redux Dev Tools
+22) Handling Forms with Redux Form
+23) REST-Based React Apps
+24) Using React Portals
+25) Implementing Streaming Video
 
 ## Result - Demo
 (pending) This app is also publicly hosted
