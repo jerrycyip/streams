@@ -35,7 +35,11 @@ This app is one of the practice projects for Stephen Grider's Udemy course, [Mod
 ## Result - Demo
 ![Streamer App Demo](../stream_app_demo.gif)
 
-# Getting Started with Create React App
+
+## Project Structure
+Note, the majority of the code is for creating the Client web app using React.js with redux, while backend server functionality leverages free and readily available JSON web server (see API folder) and RTMP server software (see RTMP folder).  For details on setup of the JSON server (REST API server) see documentation [here](https://www.npmjs.com/package/json-server) and for details on the RTMP streaming server see documentation [here](https://www.obsproject.com).  Lastly, for the streaming video playback functionality within the client streamer app, I implemented flv (flash video) player given it's simplicity of install -- see documentation [here](https://www.npmjs.com/package/flv.js) for further details.
+
+# Getting Started with Create React App (Client web app functionality)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
