@@ -1,4 +1,4 @@
-# streams
+# Streamer App
 Basic React.js app implementing video web streaming with CRUD operations for users to create, view, edit, and delete streams.  App also supports user authentication with Google's OAuth API.
 
 ## Streams App High Level Architecture
